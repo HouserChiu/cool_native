@@ -14,7 +14,9 @@
 
 ![](https://i.loli.net/2020/09/21/jCXGZkNs3VoWvHP.jpg)
 
+
 ![](https://i.loli.net/2020/09/21/RSgVATbkwJPFIZh.jpg)
+
 
 可以看到x-app-token这个参数不一样，其他参数都是固定的，先简单看一下x-app-token的构成：
 
